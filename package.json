@@ -1,0 +1,19 @@
+{
+  "name": "zadanie",
+  "version": "1.0.0",
+  "description": "123",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Ja",
+  "license": "ISC"
+}
